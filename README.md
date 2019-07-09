@@ -25,3 +25,6 @@ Execution: ./create_infiles.sh dir_name num_of_files num_of_dirs levels
 
 ### get_stats.sh  
 Execution: cat logfile1 logfile2 ... logfilen | ./get_stats.sh   
+
+-----------------------------
+This project was one of the assignments in the System Programming course in 2019.
