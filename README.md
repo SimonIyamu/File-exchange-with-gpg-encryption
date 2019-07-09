@@ -1,7 +1,7 @@
 # File-exchange-with-gpg-encryption
 Synchronize the hierarchy of files and directories of each client.  
 
-- mirror_client  
+- # mirror_client  
 Compilation: make  
 Execution: ./mirror_client -n id -c common_dir -i input_dir -m mirror_dir -b buffer_size -l log_file  
 Example:  
